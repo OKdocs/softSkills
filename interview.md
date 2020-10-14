@@ -6,7 +6,7 @@ This comes down the the two central questions one should ask oneself before the 
 and that should be thought of in every step of the application:
 
 - How do you get the employer more money?
-- Can you do the job on your own in the required time frame?
+- Can you create the product on your own in the required time frame?
 
 ## before all interviews
 
